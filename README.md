@@ -10,6 +10,8 @@ Project named module4_demo
 
 2)Walkthrough 4-2:Connect to data (MySQLdatabase)
 
+I have connected it with my Mysql sever , jay_employee database and employee is the table name.
+
 ![image](https://user-images.githubusercontent.com/70746268/120456379-2a3af000-c3b3-11eb-8f95-efacaa1a48bd.png)
 
 ![image](https://user-images.githubusercontent.com/70746268/120456564-5c4c5200-c3b3-11eb-995a-749171b85706.png)
