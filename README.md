@@ -2,6 +2,8 @@ Module-4-Building-APIs
 
 1)Walkthrough4-1: Create a Mule application with Anypoint Studio
 
+Project named module4_demo
+
 ![image](https://user-images.githubusercontent.com/70746268/120454472-8b61c400-c3b1-11eb-902b-99ee86b3537d.png)
 
 ![image](https://user-images.githubusercontent.com/70746268/120454549-9c123a00-c3b1-11eb-946d-9ab35b8b1597.png)
